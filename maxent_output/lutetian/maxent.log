@@ -1,0 +1,2062 @@
+Tue Dec 17 15:30:10 CET 2024
+MaxEnt version 3.4.4
+Checking header of C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\modern_layers\layermax_irr.asc
+Checking header of C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\modern_layers\layermax_sst.asc
+Checking header of C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\modern_layers\layermin_irr.asc
+Checking header of C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\modern_layers\layermin_sst.asc
+Reading samples from ReefBase_pts_subsample.csv
+Read samples: max memory 1858600960, total allocated 358612992, free 205079448, used 153533544, increment 55329704
+Extractor: max memory 1858600960, total allocated 358612992, free 202463104, used 156149888, increment 2616344
+Extracting random background and sample data
+Warning: Sample at -65.5, 32.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -65.5, 32.5 which has no environmental data
+Warning: Sample at -64.5, 32.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -64.5, 32.5 which has no environmental data
+Warning: Sample at -62.5, 32.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -62.5, 32.5 which has no environmental data
+Warning: Sample at 139.5, 32.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 139.5, 32.5 which has no environmental data
+Warning: Sample at 32.5, 29.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 32.5, 29.5 which has no environmental data
+Warning: Sample at 34.5, 29.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 34.5, 29.5 which has no environmental data
+Warning: Sample at 35.5, 29.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 35.5, 29.5 which has no environmental data
+Warning: Sample at 48.5, 29.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 48.5, 29.5 which has no environmental data
+Warning: Sample at 130.5, 29.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 130.5, 29.5 which has no environmental data
+Warning: Sample at -178.5, 28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -178.5, 28.5 which has no environmental data
+Warning: Sample at -177.5, 28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -177.5, 28.5 which has no environmental data
+Warning: Sample at -176.5, 28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -176.5, 28.5 which has no environmental data
+Warning: Sample at 33.5, 28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 33.5, 28.5 which has no environmental data
+Warning: Sample at 48.5, 28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 48.5, 28.5 which has no environmental data
+Warning: Sample at 129.5, 28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 129.5, 28.5 which has no environmental data
+Warning: Sample at 130.5, 28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 130.5, 28.5 which has no environmental data
+Warning: Sample at -176.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -176.5, 27.5 which has no environmental data
+Warning: Sample at -93.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -93.5, 27.5 which has no environmental data
+Warning: Sample at -79.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -79.5, 27.5 which has no environmental data
+Warning: Sample at -78.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 27.5 which has no environmental data
+Warning: Sample at -48.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -48.5, 27.5 which has no environmental data
+Warning: Sample at 33.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 33.5, 27.5 which has no environmental data
+Warning: Sample at 34.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 34.5, 27.5 which has no environmental data
+Warning: Sample at 49.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 49.5, 27.5 which has no environmental data
+Warning: Sample at 50.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 50.5, 27.5 which has no environmental data
+Warning: Sample at 56.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 56.5, 27.5 which has no environmental data
+Warning: Sample at 127.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 127.5, 27.5 which has no environmental data
+Warning: Sample at 128.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 128.5, 27.5 which has no environmental data
+Warning: Sample at 129.5, 27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 129.5, 27.5 which has no environmental data
+Warning: Sample at -176.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -176.5, 26.5 which has no environmental data
+Warning: Sample at -82.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -82.5, 26.5 which has no environmental data
+Warning: Sample at -80.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -80.5, 26.5 which has no environmental data
+Warning: Sample at -78.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 26.5 which has no environmental data
+Warning: Sample at -77.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -77.5, 26.5 which has no environmental data
+Warning: Sample at -76.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -76.5, 26.5 which has no environmental data
+Warning: Sample at 33.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 33.5, 26.5 which has no environmental data
+Warning: Sample at 34.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 34.5, 26.5 which has no environmental data
+Warning: Sample at 36.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 36.5, 26.5 which has no environmental data
+Warning: Sample at 50.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 50.5, 26.5 which has no environmental data
+Warning: Sample at 54.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 54.5, 26.5 which has no environmental data
+Warning: Sample at 55.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 55.5, 26.5 which has no environmental data
+Warning: Sample at 56.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 56.5, 26.5 which has no environmental data
+Warning: Sample at 126.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 126.5, 26.5 which has no environmental data
+Warning: Sample at 127.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 127.5, 26.5 which has no environmental data
+Warning: Sample at 128.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 128.5, 26.5 which has no environmental data
+Warning: Sample at 142.5, 26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 142.5, 26.5 which has no environmental data
+Warning: Sample at -173.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -173.5, 25.5 which has no environmental data
+Warning: Sample at -172.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -172.5, 25.5 which has no environmental data
+Warning: Sample at -168.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -168.5, 25.5 which has no environmental data
+Warning: Sample at -80.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -80.5, 25.5 which has no environmental data
+Warning: Sample at -78.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 25.5 which has no environmental data
+Warning: Sample at -77.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -77.5, 25.5 which has no environmental data
+Warning: Sample at 34.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 34.5, 25.5 which has no environmental data
+Warning: Sample at 36.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 36.5, 25.5 which has no environmental data
+Warning: Sample at 50.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 50.5, 25.5 which has no environmental data
+Warning: Sample at 55.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 55.5, 25.5 which has no environmental data
+Warning: Sample at 60.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 60.5, 25.5 which has no environmental data
+Warning: Sample at 127.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 127.5, 25.5 which has no environmental data
+Warning: Sample at 131.5, 25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, 25.5 which has no environmental data
+Warning: Sample at -167.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -167.5, 24.5 which has no environmental data
+Warning: Sample at -166.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -166.5, 24.5 which has no environmental data
+Warning: Sample at -81.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -81.5, 24.5 which has no environmental data
+Warning: Sample at -80.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -80.5, 24.5 which has no environmental data
+Warning: Sample at -77.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -77.5, 24.5 which has no environmental data
+Warning: Sample at -76.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -76.5, 24.5 which has no environmental data
+Warning: Sample at -74.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -74.5, 24.5 which has no environmental data
+Warning: Sample at 57.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 57.5, 24.5 which has no environmental data
+Warning: Sample at 123.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 24.5 which has no environmental data
+Warning: Sample at 124.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 24.5 which has no environmental data
+Warning: Sample at 125.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 24.5 which has no environmental data
+Warning: Sample at 131.5, 24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, 24.5 which has no environmental data
+Warning: Sample at -161.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -161.5, 23.5 which has no environmental data
+Warning: Sample at -109.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -109.5, 23.5 which has no environmental data
+Warning: Sample at -80.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -80.5, 23.5 which has no environmental data
+Warning: Sample at -76.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -76.5, 23.5 which has no environmental data
+Warning: Sample at -74.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -74.5, 23.5 which has no environmental data
+Warning: Sample at 35.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 35.5, 23.5 which has no environmental data
+Warning: Sample at 38.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 38.5, 23.5 which has no environmental data
+Warning: Sample at 57.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 57.5, 23.5 which has no environmental data
+Warning: Sample at 58.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 58.5, 23.5 which has no environmental data
+Warning: Sample at 119.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 23.5 which has no environmental data
+Warning: Sample at 121.5, 23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 23.5 which has no environmental data
+Warning: Sample at -160.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -160.5, 22.5 which has no environmental data
+Warning: Sample at -159.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -159.5, 22.5 which has no environmental data
+Warning: Sample at -97.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -97.5, 22.5 which has no environmental data
+Warning: Sample at -91.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -91.5, 22.5 which has no environmental data
+Warning: Sample at -84.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -84.5, 22.5 which has no environmental data
+Warning: Sample at -83.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -83.5, 22.5 which has no environmental data
+Warning: Sample at -73.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -73.5, 22.5 which has no environmental data
+Warning: Sample at 35.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 35.5, 22.5 which has no environmental data
+Warning: Sample at 36.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 36.5, 22.5 which has no environmental data
+Warning: Sample at 38.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 38.5, 22.5 which has no environmental data
+Warning: Sample at 44.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 44.5, 22.5 which has no environmental data
+Warning: Sample at 54.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 54.5, 22.5 which has no environmental data
+Warning: Sample at 69.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 69.5, 22.5 which has no environmental data
+Warning: Sample at 70.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 70.5, 22.5 which has no environmental data
+Warning: Sample at 110.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 110.5, 22.5 which has no environmental data
+Warning: Sample at 114.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 22.5 which has no environmental data
+Warning: Sample at 120.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 22.5 which has no environmental data
+Warning: Sample at 121.5, 22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 22.5 which has no environmental data
+Warning: Sample at -160.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -160.5, 21.5 which has no environmental data
+Warning: Sample at -159.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -159.5, 21.5 which has no environmental data
+Warning: Sample at -158.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -158.5, 21.5 which has no environmental data
+Warning: Sample at -157.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, 21.5 which has no environmental data
+Warning: Sample at -156.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -156.5, 21.5 which has no environmental data
+Warning: Sample at -97.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -97.5, 21.5 which has no environmental data
+Warning: Sample at -88.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -88.5, 21.5 which has no environmental data
+Warning: Sample at -86.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -86.5, 21.5 which has no environmental data
+Warning: Sample at -82.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -82.5, 21.5 which has no environmental data
+Warning: Sample at -74.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -74.5, 21.5 which has no environmental data
+Warning: Sample at -73.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -73.5, 21.5 which has no environmental data
+Warning: Sample at -72.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -72.5, 21.5 which has no environmental data
+Warning: Sample at -71.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -71.5, 21.5 which has no environmental data
+Warning: Sample at 37.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 37.5, 21.5 which has no environmental data
+Warning: Sample at 38.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 38.5, 21.5 which has no environmental data
+Warning: Sample at 39.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, 21.5 which has no environmental data
+Warning: Sample at 109.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 109.5, 21.5 which has no environmental data
+Warning: Sample at 116.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 21.5 which has no environmental data
+Warning: Sample at 120.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 21.5 which has no environmental data
+Warning: Sample at 121.5, 21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 21.5 which has no environmental data
+Warning: Sample at -157.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, 20.5 which has no environmental data
+Warning: Sample at -156.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -156.5, 20.5 which has no environmental data
+Warning: Sample at -155.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -155.5, 20.5 which has no environmental data
+Warning: Sample at -92.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -92.5, 20.5 which has no environmental data
+Warning: Sample at -90.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -90.5, 20.5 which has no environmental data
+Warning: Sample at -87.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -87.5, 20.5 which has no environmental data
+Warning: Sample at -86.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -86.5, 20.5 which has no environmental data
+Warning: Sample at 37.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 37.5, 20.5 which has no environmental data
+Warning: Sample at 39.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, 20.5 which has no environmental data
+Warning: Sample at 40.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, 20.5 which has no environmental data
+Warning: Sample at 58.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 58.5, 20.5 which has no environmental data
+Warning: Sample at 92.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 92.5, 20.5 which has no environmental data
+Warning: Sample at 106.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 106.5, 20.5 which has no environmental data
+Warning: Sample at 115.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, 20.5 which has no environmental data
+Warning: Sample at 116.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 20.5 which has no environmental data
+Warning: Sample at 121.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 20.5 which has no environmental data
+Warning: Sample at 130.5, 20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 130.5, 20.5 which has no environmental data
+Warning: Sample at -155.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -155.5, 19.5 which has no environmental data
+Warning: Sample at -113.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -113.5, 19.5 which has no environmental data
+Warning: Sample at -96.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -96.5, 19.5 which has no environmental data
+Warning: Sample at -95.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -95.5, 19.5 which has no environmental data
+Warning: Sample at -90.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -90.5, 19.5 which has no environmental data
+Warning: Sample at -87.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -87.5, 19.5 which has no environmental data
+Warning: Sample at -81.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -81.5, 19.5 which has no environmental data
+Warning: Sample at -79.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -79.5, 19.5 which has no environmental data
+Warning: Sample at -72.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -72.5, 19.5 which has no environmental data
+Warning: Sample at -71.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -71.5, 19.5 which has no environmental data
+Warning: Sample at -69.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -69.5, 19.5 which has no environmental data
+Warning: Sample at 37.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 37.5, 19.5 which has no environmental data
+Warning: Sample at 41.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 41.5, 19.5 which has no environmental data
+Warning: Sample at 110.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 110.5, 19.5 which has no environmental data
+Warning: Sample at 113.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 113.5, 19.5 which has no environmental data
+Warning: Sample at 121.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 19.5 which has no environmental data
+Warning: Sample at 145.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 19.5 which has no environmental data
+Warning: Sample at 167.5, 19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, 19.5 which has no environmental data
+Warning: Sample at -154.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -154.5, 18.5 which has no environmental data
+Warning: Sample at -88.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -88.5, 18.5 which has no environmental data
+Warning: Sample at -87.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -87.5, 18.5 which has no environmental data
+Warning: Sample at -78.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 18.5 which has no environmental data
+Warning: Sample at -77.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -77.5, 18.5 which has no environmental data
+Warning: Sample at -76.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -76.5, 18.5 which has no environmental data
+Warning: Sample at -73.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -73.5, 18.5 which has no environmental data
+Warning: Sample at -72.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -72.5, 18.5 which has no environmental data
+Warning: Sample at -71.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -71.5, 18.5 which has no environmental data
+Warning: Sample at -68.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -68.5, 18.5 which has no environmental data
+Warning: Sample at -67.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -67.5, 18.5 which has no environmental data
+Warning: Sample at -66.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -66.5, 18.5 which has no environmental data
+Warning: Sample at -65.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -65.5, 18.5 which has no environmental data
+Warning: Sample at -64.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -64.5, 18.5 which has no environmental data
+Warning: Sample at -63.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -63.5, 18.5 which has no environmental data
+Warning: Sample at -62.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -62.5, 18.5 which has no environmental data
+Warning: Sample at 109.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 109.5, 18.5 which has no environmental data
+Warning: Sample at 110.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 110.5, 18.5 which has no environmental data
+Warning: Sample at 121.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 18.5 which has no environmental data
+Warning: Sample at 122.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 18.5 which has no environmental data
+Warning: Sample at 143.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, 18.5 which has no environmental data
+Warning: Sample at 145.5, 18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 18.5 which has no environmental data
+Warning: Sample at -111.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -111.5, 17.5 which has no environmental data
+Warning: Sample at -88.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -88.5, 17.5 which has no environmental data
+Warning: Sample at -87.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -87.5, 17.5 which has no environmental data
+Warning: Sample at -84.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -84.5, 17.5 which has no environmental data
+Warning: Sample at -83.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -83.5, 17.5 which has no environmental data
+Warning: Sample at -78.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 17.5 which has no environmental data
+Warning: Sample at -77.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -77.5, 17.5 which has no environmental data
+Warning: Sample at -76.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -76.5, 17.5 which has no environmental data
+Warning: Sample at -75.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -75.5, 17.5 which has no environmental data
+Warning: Sample at -67.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -67.5, 17.5 which has no environmental data
+Warning: Sample at -66.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -66.5, 17.5 which has no environmental data
+Warning: Sample at -65.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -65.5, 17.5 which has no environmental data
+Warning: Sample at -64.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -64.5, 17.5 which has no environmental data
+Warning: Sample at -63.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -63.5, 17.5 which has no environmental data
+Warning: Sample at -62.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -62.5, 17.5 which has no environmental data
+Warning: Sample at -61.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -61.5, 17.5 which has no environmental data
+Warning: Sample at 42.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 42.5, 17.5 which has no environmental data
+Warning: Sample at 84.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 84.5, 17.5 which has no environmental data
+Warning: Sample at 111.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 111.5, 17.5 which has no environmental data
+Warning: Sample at 120.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 17.5 which has no environmental data
+Warning: Sample at 122.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 17.5 which has no environmental data
+Warning: Sample at 143.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, 17.5 which has no environmental data
+Warning: Sample at 146.5, 17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, 17.5 which has no environmental data
+Warning: Sample at -169.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -169.5, 16.5 which has no environmental data
+Warning: Sample at -88.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -88.5, 16.5 which has no environmental data
+Warning: Sample at -87.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -87.5, 16.5 which has no environmental data
+Warning: Sample at -86.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -86.5, 16.5 which has no environmental data
+Warning: Sample at -85.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -85.5, 16.5 which has no environmental data
+Warning: Sample at -78.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 16.5 which has no environmental data
+Warning: Sample at -61.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -61.5, 16.5 which has no environmental data
+Warning: Sample at 41.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 41.5, 16.5 which has no environmental data
+Warning: Sample at 42.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 42.5, 16.5 which has no environmental data
+Warning: Sample at 54.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 54.5, 16.5 which has no environmental data
+Warning: Sample at 73.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 16.5 which has no environmental data
+Warning: Sample at 111.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 111.5, 16.5 which has no environmental data
+Warning: Sample at 112.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 112.5, 16.5 which has no environmental data
+Warning: Sample at 116.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 16.5 which has no environmental data
+Warning: Sample at 119.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 16.5 which has no environmental data
+Warning: Sample at 120.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 16.5 which has no environmental data
+Warning: Sample at 122.5, 16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 16.5 which has no environmental data
+Warning: Sample at -86.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -86.5, 15.5 which has no environmental data
+Warning: Sample at -79.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -79.5, 15.5 which has no environmental data
+Warning: Sample at -61.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -61.5, 15.5 which has no environmental data
+Warning: Sample at 39.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, 15.5 which has no environmental data
+Warning: Sample at 41.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 41.5, 15.5 which has no environmental data
+Warning: Sample at 42.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 42.5, 15.5 which has no environmental data
+Warning: Sample at 109.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 109.5, 15.5 which has no environmental data
+Warning: Sample at 111.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 111.5, 15.5 which has no environmental data
+Warning: Sample at 114.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 15.5 which has no environmental data
+Warning: Sample at 117.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, 15.5 which has no environmental data
+Warning: Sample at 119.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 15.5 which has no environmental data
+Warning: Sample at 120.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 15.5 which has no environmental data
+Warning: Sample at 121.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 15.5 which has no environmental data
+Warning: Sample at 145.5, 15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 15.5 which has no environmental data
+Warning: Sample at -83.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -83.5, 14.5 which has no environmental data
+Warning: Sample at -82.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -82.5, 14.5 which has no environmental data
+Warning: Sample at -80.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -80.5, 14.5 which has no environmental data
+Warning: Sample at -60.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -60.5, 14.5 which has no environmental data
+Warning: Sample at 42.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 42.5, 14.5 which has no environmental data
+Warning: Sample at 75.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 75.5, 14.5 which has no environmental data
+Warning: Sample at 120.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 14.5 which has no environmental data
+Warning: Sample at 121.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 14.5 which has no environmental data
+Warning: Sample at 122.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 14.5 which has no environmental data
+Warning: Sample at 123.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 14.5 which has no environmental data
+Warning: Sample at 142.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 142.5, 14.5 which has no environmental data
+Warning: Sample at 145.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 14.5 which has no environmental data
+Warning: Sample at 168.5, 14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, 14.5 which has no environmental data
+Warning: Sample at -166.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -166.5, 13.5 which has no environmental data
+Warning: Sample at -87.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -87.5, 13.5 which has no environmental data
+Warning: Sample at -83.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -83.5, 13.5 which has no environmental data
+Warning: Sample at -82.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -82.5, 13.5 which has no environmental data
+Warning: Sample at -81.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -81.5, 13.5 which has no environmental data
+Warning: Sample at -80.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -80.5, 13.5 which has no environmental data
+Warning: Sample at -61.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -61.5, 13.5 which has no environmental data
+Warning: Sample at -60.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -60.5, 13.5 which has no environmental data
+Warning: Sample at -59.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -59.5, 13.5 which has no environmental data
+Warning: Sample at 42.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 42.5, 13.5 which has no environmental data
+Warning: Sample at 43.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 43.5, 13.5 which has no environmental data
+Warning: Sample at 73.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 13.5 which has no environmental data
+Warning: Sample at 92.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 92.5, 13.5 which has no environmental data
+Warning: Sample at 109.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 109.5, 13.5 which has no environmental data
+Warning: Sample at 120.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 13.5 which has no environmental data
+Warning: Sample at 121.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 13.5 which has no environmental data
+Warning: Sample at 122.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 13.5 which has no environmental data
+Warning: Sample at 123.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 13.5 which has no environmental data
+Warning: Sample at 124.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 13.5 which has no environmental data
+Warning: Sample at 144.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, 13.5 which has no environmental data
+Warning: Sample at 145.5, 13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 13.5 which has no environmental data
+Warning: Sample at -83.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -83.5, 12.5 which has no environmental data
+Warning: Sample at -82.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -82.5, 12.5 which has no environmental data
+Warning: Sample at -81.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -81.5, 12.5 which has no environmental data
+Warning: Sample at -70.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -70.5, 12.5 which has no environmental data
+Warning: Sample at -69.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -69.5, 12.5 which has no environmental data
+Warning: Sample at -68.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -68.5, 12.5 which has no environmental data
+Warning: Sample at -61.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -61.5, 12.5 which has no environmental data
+Warning: Sample at -60.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -60.5, 12.5 which has no environmental data
+Warning: Sample at 43.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 43.5, 12.5 which has no environmental data
+Warning: Sample at 92.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 92.5, 12.5 which has no environmental data
+Warning: Sample at 93.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 93.5, 12.5 which has no environmental data
+Warning: Sample at 100.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, 12.5 which has no environmental data
+Warning: Sample at 101.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 101.5, 12.5 which has no environmental data
+Warning: Sample at 102.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 102.5, 12.5 which has no environmental data
+Warning: Sample at 109.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 109.5, 12.5 which has no environmental data
+Warning: Sample at 119.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 12.5 which has no environmental data
+Warning: Sample at 120.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 12.5 which has no environmental data
+Warning: Sample at 121.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 12.5 which has no environmental data
+Warning: Sample at 122.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 12.5 which has no environmental data
+Warning: Sample at 123.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 12.5 which has no environmental data
+Warning: Sample at 124.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 12.5 which has no environmental data
+Warning: Sample at 125.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 12.5 which has no environmental data
+Warning: Sample at 144.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, 12.5 which has no environmental data
+Warning: Sample at 170.5, 12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 170.5, 12.5 which has no environmental data
+Warning: Sample at -74.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -74.5, 11.5 which has no environmental data
+Warning: Sample at -61.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -61.5, 11.5 which has no environmental data
+Warning: Sample at -60.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -60.5, 11.5 which has no environmental data
+Warning: Sample at 43.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 43.5, 11.5 which has no environmental data
+Warning: Sample at 72.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 11.5 which has no environmental data
+Warning: Sample at 73.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 11.5 which has no environmental data
+Warning: Sample at 74.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 74.5, 11.5 which has no environmental data
+Warning: Sample at 79.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 79.5, 11.5 which has no environmental data
+Warning: Sample at 80.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 80.5, 11.5 which has no environmental data
+Warning: Sample at 92.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 92.5, 11.5 which has no environmental data
+Warning: Sample at 99.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, 11.5 which has no environmental data
+Warning: Sample at 102.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 102.5, 11.5 which has no environmental data
+Warning: Sample at 108.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 108.5, 11.5 which has no environmental data
+Warning: Sample at 114.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 11.5 which has no environmental data
+Warning: Sample at 115.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, 11.5 which has no environmental data
+Warning: Sample at 116.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 11.5 which has no environmental data
+Warning: Sample at 117.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, 11.5 which has no environmental data
+Warning: Sample at 118.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 11.5 which has no environmental data
+Warning: Sample at 119.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 11.5 which has no environmental data
+Warning: Sample at 120.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 11.5 which has no environmental data
+Warning: Sample at 121.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 11.5 which has no environmental data
+Warning: Sample at 122.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 11.5 which has no environmental data
+Warning: Sample at 123.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 11.5 which has no environmental data
+Warning: Sample at 124.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 11.5 which has no environmental data
+Warning: Sample at 125.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 11.5 which has no environmental data
+Warning: Sample at 162.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 162.5, 11.5 which has no environmental data
+Warning: Sample at 165.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 165.5, 11.5 which has no environmental data
+Warning: Sample at 166.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, 11.5 which has no environmental data
+Warning: Sample at 167.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, 11.5 which has no environmental data
+Warning: Sample at 169.5, 11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, 11.5 which has no environmental data
+Warning: Sample at -109.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -109.5, 10.5 which has no environmental data
+Warning: Sample at -85.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -85.5, 10.5 which has no environmental data
+Warning: Sample at -75.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -75.5, 10.5 which has no environmental data
+Warning: Sample at -68.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -68.5, 10.5 which has no environmental data
+Warning: Sample at -67.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -67.5, 10.5 which has no environmental data
+Warning: Sample at -64.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -64.5, 10.5 which has no environmental data
+Warning: Sample at -60.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -60.5, 10.5 which has no environmental data
+Warning: Sample at 72.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 10.5 which has no environmental data
+Warning: Sample at 73.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 10.5 which has no environmental data
+Warning: Sample at 92.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 92.5, 10.5 which has no environmental data
+Warning: Sample at 98.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 98.5, 10.5 which has no environmental data
+Warning: Sample at 99.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, 10.5 which has no environmental data
+Warning: Sample at 103.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 103.5, 10.5 which has no environmental data
+Warning: Sample at 107.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 107.5, 10.5 which has no environmental data
+Warning: Sample at 108.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 108.5, 10.5 which has no environmental data
+Warning: Sample at 113.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 113.5, 10.5 which has no environmental data
+Warning: Sample at 114.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 10.5 which has no environmental data
+Warning: Sample at 115.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, 10.5 which has no environmental data
+Warning: Sample at 116.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 10.5 which has no environmental data
+Warning: Sample at 117.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, 10.5 which has no environmental data
+Warning: Sample at 118.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 10.5 which has no environmental data
+Warning: Sample at 119.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 10.5 which has no environmental data
+Warning: Sample at 120.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 10.5 which has no environmental data
+Warning: Sample at 121.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 10.5 which has no environmental data
+Warning: Sample at 122.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 10.5 which has no environmental data
+Warning: Sample at 123.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 10.5 which has no environmental data
+Warning: Sample at 124.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 10.5 which has no environmental data
+Warning: Sample at 125.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 10.5 which has no environmental data
+Warning: Sample at 126.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 126.5, 10.5 which has no environmental data
+Warning: Sample at 165.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 165.5, 10.5 which has no environmental data
+Warning: Sample at 169.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, 10.5 which has no environmental data
+Warning: Sample at 170.5, 10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 170.5, 10.5 which has no environmental data
+Warning: Sample at -82.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -82.5, 9.5 which has no environmental data
+Warning: Sample at -79.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -79.5, 9.5 which has no environmental data
+Warning: Sample at -78.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 9.5 which has no environmental data
+Warning: Sample at -75.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -75.5, 9.5 which has no environmental data
+Warning: Sample at 79.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 79.5, 9.5 which has no environmental data
+Warning: Sample at 80.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 80.5, 9.5 which has no environmental data
+Warning: Sample at 92.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 92.5, 9.5 which has no environmental data
+Warning: Sample at 97.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 97.5, 9.5 which has no environmental data
+Warning: Sample at 98.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 98.5, 9.5 which has no environmental data
+Warning: Sample at 99.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, 9.5 which has no environmental data
+Warning: Sample at 103.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 103.5, 9.5 which has no environmental data
+Warning: Sample at 108.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 108.5, 9.5 which has no environmental data
+Warning: Sample at 111.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 111.5, 9.5 which has no environmental data
+Warning: Sample at 112.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 112.5, 9.5 which has no environmental data
+Warning: Sample at 113.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 113.5, 9.5 which has no environmental data
+Warning: Sample at 114.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 9.5 which has no environmental data
+Warning: Sample at 115.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, 9.5 which has no environmental data
+Warning: Sample at 116.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 9.5 which has no environmental data
+Warning: Sample at 117.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, 9.5 which has no environmental data
+Warning: Sample at 118.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 9.5 which has no environmental data
+Warning: Sample at 119.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 9.5 which has no environmental data
+Warning: Sample at 120.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 9.5 which has no environmental data
+Warning: Sample at 121.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 9.5 which has no environmental data
+Warning: Sample at 122.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 9.5 which has no environmental data
+Warning: Sample at 123.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 9.5 which has no environmental data
+Warning: Sample at 124.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 9.5 which has no environmental data
+Warning: Sample at 125.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 9.5 which has no environmental data
+Warning: Sample at 126.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 126.5, 9.5 which has no environmental data
+Warning: Sample at 138.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 138.5, 9.5 which has no environmental data
+Warning: Sample at 139.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 139.5, 9.5 which has no environmental data
+Warning: Sample at 141.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 141.5, 9.5 which has no environmental data
+Warning: Sample at 145.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 9.5 which has no environmental data
+Warning: Sample at 160.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 160.5, 9.5 which has no environmental data
+Warning: Sample at 165.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 165.5, 9.5 which has no environmental data
+Warning: Sample at 166.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, 9.5 which has no environmental data
+Warning: Sample at 167.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, 9.5 which has no environmental data
+Warning: Sample at 170.5, 9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 170.5, 9.5 which has no environmental data
+Warning: Sample at -83.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -83.5, 8.5 which has no environmental data
+Warning: Sample at -81.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -81.5, 8.5 which has no environmental data
+Warning: Sample at -80.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -80.5, 8.5 which has no environmental data
+Warning: Sample at -79.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -79.5, 8.5 which has no environmental data
+Warning: Sample at -78.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 8.5 which has no environmental data
+Warning: Sample at 73.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 8.5 which has no environmental data
+Warning: Sample at 76.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 76.5, 8.5 which has no environmental data
+Warning: Sample at 77.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 77.5, 8.5 which has no environmental data
+Warning: Sample at 78.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 78.5, 8.5 which has no environmental data
+Warning: Sample at 79.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 79.5, 8.5 which has no environmental data
+Warning: Sample at 81.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 81.5, 8.5 which has no environmental data
+Warning: Sample at 92.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 92.5, 8.5 which has no environmental data
+Warning: Sample at 93.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 93.5, 8.5 which has no environmental data
+Warning: Sample at 97.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 97.5, 8.5 which has no environmental data
+Warning: Sample at 98.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 98.5, 8.5 which has no environmental data
+Warning: Sample at 100.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, 8.5 which has no environmental data
+Warning: Sample at 110.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 110.5, 8.5 which has no environmental data
+Warning: Sample at 111.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 111.5, 8.5 which has no environmental data
+Warning: Sample at 112.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 112.5, 8.5 which has no environmental data
+Warning: Sample at 113.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 113.5, 8.5 which has no environmental data
+Warning: Sample at 114.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 8.5 which has no environmental data
+Warning: Sample at 115.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, 8.5 which has no environmental data
+Warning: Sample at 116.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 8.5 which has no environmental data
+Warning: Sample at 117.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, 8.5 which has no environmental data
+Warning: Sample at 118.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 8.5 which has no environmental data
+Warning: Sample at 119.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 8.5 which has no environmental data
+Warning: Sample at 120.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 8.5 which has no environmental data
+Warning: Sample at 123.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 8.5 which has no environmental data
+Warning: Sample at 124.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 8.5 which has no environmental data
+Warning: Sample at 134.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, 8.5 which has no environmental data
+Warning: Sample at 137.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 137.5, 8.5 which has no environmental data
+Warning: Sample at 141.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 141.5, 8.5 which has no environmental data
+Warning: Sample at 145.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 8.5 which has no environmental data
+Warning: Sample at 146.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, 8.5 which has no environmental data
+Warning: Sample at 147.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, 8.5 which has no environmental data
+Warning: Sample at 150.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, 8.5 which has no environmental data
+Warning: Sample at 151.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, 8.5 which has no environmental data
+Warning: Sample at 152.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 152.5, 8.5 which has no environmental data
+Warning: Sample at 165.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 165.5, 8.5 which has no environmental data
+Warning: Sample at 166.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, 8.5 which has no environmental data
+Warning: Sample at 167.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, 8.5 which has no environmental data
+Warning: Sample at 168.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, 8.5 which has no environmental data
+Warning: Sample at 169.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, 8.5 which has no environmental data
+Warning: Sample at 171.5, 8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 171.5, 8.5 which has no environmental data
+Warning: Sample at -82.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -82.5, 7.5 which has no environmental data
+Warning: Sample at -81.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -81.5, 7.5 which has no environmental data
+Warning: Sample at -79.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -79.5, 7.5 which has no environmental data
+Warning: Sample at 72.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 7.5 which has no environmental data
+Warning: Sample at 73.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 7.5 which has no environmental data
+Warning: Sample at 81.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 81.5, 7.5 which has no environmental data
+Warning: Sample at 93.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 93.5, 7.5 which has no environmental data
+Warning: Sample at 98.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 98.5, 7.5 which has no environmental data
+Warning: Sample at 99.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, 7.5 which has no environmental data
+Warning: Sample at 109.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 109.5, 7.5 which has no environmental data
+Warning: Sample at 110.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 110.5, 7.5 which has no environmental data
+Warning: Sample at 111.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 111.5, 7.5 which has no environmental data
+Warning: Sample at 112.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 112.5, 7.5 which has no environmental data
+Warning: Sample at 113.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 113.5, 7.5 which has no environmental data
+Warning: Sample at 114.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 7.5 which has no environmental data
+Warning: Sample at 116.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 7.5 which has no environmental data
+Warning: Sample at 117.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, 7.5 which has no environmental data
+Warning: Sample at 118.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 7.5 which has no environmental data
+Warning: Sample at 121.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 7.5 which has no environmental data
+Warning: Sample at 123.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 7.5 which has no environmental data
+Warning: Sample at 125.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 7.5 which has no environmental data
+Warning: Sample at 134.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, 7.5 which has no environmental data
+Warning: Sample at 143.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, 7.5 which has no environmental data
+Warning: Sample at 144.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, 7.5 which has no environmental data
+Warning: Sample at 145.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, 7.5 which has no environmental data
+Warning: Sample at 146.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, 7.5 which has no environmental data
+Warning: Sample at 147.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, 7.5 which has no environmental data
+Warning: Sample at 149.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, 7.5 which has no environmental data
+Warning: Sample at 151.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, 7.5 which has no environmental data
+Warning: Sample at 155.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 155.5, 7.5 which has no environmental data
+Warning: Sample at 157.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 157.5, 7.5 which has no environmental data
+Warning: Sample at 168.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, 7.5 which has no environmental data
+Warning: Sample at 171.5, 7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 171.5, 7.5 which has no environmental data
+Warning: Sample at -73.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -73.5, 6.5 which has no environmental data
+Warning: Sample at -53.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -53.5, 6.5 which has no environmental data
+Warning: Sample at 72.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 6.5 which has no environmental data
+Warning: Sample at 73.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 6.5 which has no environmental data
+Warning: Sample at 79.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 79.5, 6.5 which has no environmental data
+Warning: Sample at 80.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 80.5, 6.5 which has no environmental data
+Warning: Sample at 81.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 81.5, 6.5 which has no environmental data
+Warning: Sample at 93.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 93.5, 6.5 which has no environmental data
+Warning: Sample at 95.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 95.5, 6.5 which has no environmental data
+Warning: Sample at 99.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, 6.5 which has no environmental data
+Warning: Sample at 100.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, 6.5 which has no environmental data
+Warning: Sample at 113.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 113.5, 6.5 which has no environmental data
+Warning: Sample at 116.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 6.5 which has no environmental data
+Warning: Sample at 117.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, 6.5 which has no environmental data
+Warning: Sample at 118.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 6.5 which has no environmental data
+Warning: Sample at 121.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 6.5 which has no environmental data
+Warning: Sample at 122.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, 6.5 which has no environmental data
+Warning: Sample at 123.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, 6.5 which has no environmental data
+Warning: Sample at 124.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 6.5 which has no environmental data
+Warning: Sample at 125.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 6.5 which has no environmental data
+Warning: Sample at 126.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 126.5, 6.5 which has no environmental data
+Warning: Sample at 134.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, 6.5 which has no environmental data
+Warning: Sample at 143.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, 6.5 which has no environmental data
+Warning: Sample at 149.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, 6.5 which has no environmental data
+Warning: Sample at 150.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, 6.5 which has no environmental data
+Warning: Sample at 152.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 152.5, 6.5 which has no environmental data
+Warning: Sample at 157.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 157.5, 6.5 which has no environmental data
+Warning: Sample at 158.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 158.5, 6.5 which has no environmental data
+Warning: Sample at 159.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 159.5, 6.5 which has no environmental data
+Warning: Sample at 160.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 160.5, 6.5 which has no environmental data
+Warning: Sample at 171.5, 6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 171.5, 6.5 which has no environmental data
+Warning: Sample at -162.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -162.5, 5.5 which has no environmental data
+Warning: Sample at -87.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -87.5, 5.5 which has no environmental data
+Warning: Sample at 72.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 5.5 which has no environmental data
+Warning: Sample at 73.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 5.5 which has no environmental data
+Warning: Sample at 80.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 80.5, 5.5 which has no environmental data
+Warning: Sample at 95.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 95.5, 5.5 which has no environmental data
+Warning: Sample at 102.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 102.5, 5.5 which has no environmental data
+Warning: Sample at 112.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 112.5, 5.5 which has no environmental data
+Warning: Sample at 114.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 5.5 which has no environmental data
+Warning: Sample at 115.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, 5.5 which has no environmental data
+Warning: Sample at 116.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, 5.5 which has no environmental data
+Warning: Sample at 119.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 5.5 which has no environmental data
+Warning: Sample at 120.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, 5.5 which has no environmental data
+Warning: Sample at 124.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 5.5 which has no environmental data
+Warning: Sample at 125.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 5.5 which has no environmental data
+Warning: Sample at 132.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 132.5, 5.5 which has no environmental data
+Warning: Sample at 153.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 153.5, 5.5 which has no environmental data
+Warning: Sample at 162.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 162.5, 5.5 which has no environmental data
+Warning: Sample at 163.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 163.5, 5.5 which has no environmental data
+Warning: Sample at 168.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, 5.5 which has no environmental data
+Warning: Sample at 169.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, 5.5 which has no environmental data
+Warning: Sample at 172.5, 5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 172.5, 5.5 which has no environmental data
+Warning: Sample at -160.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -160.5, 4.5 which has no environmental data
+Warning: Sample at 72.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 4.5 which has no environmental data
+Warning: Sample at 73.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 4.5 which has no environmental data
+Warning: Sample at 100.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, 4.5 which has no environmental data
+Warning: Sample at 114.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, 4.5 which has no environmental data
+Warning: Sample at 118.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 4.5 which has no environmental data
+Warning: Sample at 119.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 4.5 which has no environmental data
+Warning: Sample at 131.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, 4.5 which has no environmental data
+Warning: Sample at 132.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 132.5, 4.5 which has no environmental data
+Warning: Sample at 168.5, 4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, 4.5 which has no environmental data
+Warning: Sample at -159.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -159.5, 3.5 which has no environmental data
+Warning: Sample at -81.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -81.5, 3.5 which has no environmental data
+Warning: Sample at 72.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 3.5 which has no environmental data
+Warning: Sample at 73.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 3.5 which has no environmental data
+Warning: Sample at 96.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 96.5, 3.5 which has no environmental data
+Warning: Sample at 102.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 102.5, 3.5 which has no environmental data
+Warning: Sample at 106.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 106.5, 3.5 which has no environmental data
+Warning: Sample at 108.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 108.5, 3.5 which has no environmental data
+Warning: Sample at 112.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 112.5, 3.5 which has no environmental data
+Warning: Sample at 128.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 128.5, 3.5 which has no environmental data
+Warning: Sample at 131.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, 3.5 which has no environmental data
+Warning: Sample at 172.5, 3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 172.5, 3.5 which has no environmental data
+Warning: Sample at -157.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, 2.5 which has no environmental data
+Warning: Sample at -78.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -78.5, 2.5 which has no environmental data
+Warning: Sample at 72.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, 2.5 which has no environmental data
+Warning: Sample at 73.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 2.5 which has no environmental data
+Warning: Sample at 95.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 95.5, 2.5 which has no environmental data
+Warning: Sample at 97.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 97.5, 2.5 which has no environmental data
+Warning: Sample at 101.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 101.5, 2.5 which has no environmental data
+Warning: Sample at 103.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 103.5, 2.5 which has no environmental data
+Warning: Sample at 104.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 104.5, 2.5 which has no environmental data
+Warning: Sample at 109.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 109.5, 2.5 which has no environmental data
+Warning: Sample at 118.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 2.5 which has no environmental data
+Warning: Sample at 125.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 2.5 which has no environmental data
+Warning: Sample at 128.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 128.5, 2.5 which has no environmental data
+Warning: Sample at 130.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 130.5, 2.5 which has no environmental data
+Warning: Sample at 131.5, 2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, 2.5 which has no environmental data
+Warning: Sample at -157.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, 1.5 which has no environmental data
+Warning: Sample at 44.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 44.5, 1.5 which has no environmental data
+Warning: Sample at 73.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 1.5 which has no environmental data
+Warning: Sample at 97.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 97.5, 1.5 which has no environmental data
+Warning: Sample at 98.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 98.5, 1.5 which has no environmental data
+Warning: Sample at 101.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 101.5, 1.5 which has no environmental data
+Warning: Sample at 103.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 103.5, 1.5 which has no environmental data
+Warning: Sample at 104.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 104.5, 1.5 which has no environmental data
+Warning: Sample at 118.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, 1.5 which has no environmental data
+Warning: Sample at 124.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 1.5 which has no environmental data
+Warning: Sample at 125.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, 1.5 which has no environmental data
+Warning: Sample at 128.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 128.5, 1.5 which has no environmental data
+Warning: Sample at 131.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, 1.5 which has no environmental data
+Warning: Sample at 134.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, 1.5 which has no environmental data
+Warning: Sample at 172.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 172.5, 1.5 which has no environmental data
+Warning: Sample at 173.5, 1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 173.5, 1.5 which has no environmental data
+Warning: Sample at -176.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -176.5, 0.5 which has no environmental data
+Warning: Sample at 73.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, 0.5 which has no environmental data
+Warning: Sample at 97.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 97.5, 0.5 which has no environmental data
+Warning: Sample at 98.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 98.5, 0.5 which has no environmental data
+Warning: Sample at 99.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, 0.5 which has no environmental data
+Warning: Sample at 119.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, 0.5 which has no environmental data
+Warning: Sample at 121.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, 0.5 which has no environmental data
+Warning: Sample at 124.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, 0.5 which has no environmental data
+Warning: Sample at 131.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, 0.5 which has no environmental data
+Warning: Sample at 134.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, 0.5 which has no environmental data
+Warning: Sample at 154.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 154.5, 0.5 which has no environmental data
+Warning: Sample at 173.5, 0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 173.5, 0.5 which has no environmental data
+Warning: Sample at -176.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -176.5, -0.5 which has no environmental data
+Warning: Sample at -91.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -91.5, -0.5 which has no environmental data
+Warning: Sample at 73.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 73.5, -0.5 which has no environmental data
+Warning: Sample at 98.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 98.5, -0.5 which has no environmental data
+Warning: Sample at 99.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, -0.5 which has no environmental data
+Warning: Sample at 100.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, -0.5 which has no environmental data
+Warning: Sample at 121.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, -0.5 which has no environmental data
+Warning: Sample at 127.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 127.5, -0.5 which has no environmental data
+Warning: Sample at 130.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 130.5, -0.5 which has no environmental data
+Warning: Sample at 131.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, -0.5 which has no environmental data
+Warning: Sample at 135.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 135.5, -0.5 which has no environmental data
+Warning: Sample at 145.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, -0.5 which has no environmental data
+Warning: Sample at 169.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, -0.5 which has no environmental data
+Warning: Sample at 174.5, -0.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 174.5, -0.5 which has no environmental data
+Warning: Sample at 41.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 41.5, -1.5 which has no environmental data
+Warning: Sample at 100.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, -1.5 which has no environmental data
+Warning: Sample at 123.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -1.5 which has no environmental data
+Warning: Sample at 124.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, -1.5 which has no environmental data
+Warning: Sample at 136.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 136.5, -1.5 which has no environmental data
+Warning: Sample at 142.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 142.5, -1.5 which has no environmental data
+Warning: Sample at 144.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, -1.5 which has no environmental data
+Warning: Sample at 145.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, -1.5 which has no environmental data
+Warning: Sample at 174.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 174.5, -1.5 which has no environmental data
+Warning: Sample at 175.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 175.5, -1.5 which has no environmental data
+Warning: Sample at 176.5, -1.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 176.5, -1.5 which has no environmental data
+Warning: Sample at -171.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -171.5, -2.5 which has no environmental data
+Warning: Sample at -169.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -169.5, -2.5 which has no environmental data
+Warning: Sample at 40.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -2.5 which has no environmental data
+Warning: Sample at 41.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 41.5, -2.5 which has no environmental data
+Warning: Sample at 99.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 99.5, -2.5 which has no environmental data
+Warning: Sample at 100.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, -2.5 which has no environmental data
+Warning: Sample at 107.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 107.5, -2.5 which has no environmental data
+Warning: Sample at 123.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -2.5 which has no environmental data
+Warning: Sample at 130.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 130.5, -2.5 which has no environmental data
+Warning: Sample at 132.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 132.5, -2.5 which has no environmental data
+Warning: Sample at 134.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, -2.5 which has no environmental data
+Warning: Sample at 147.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -2.5 which has no environmental data
+Warning: Sample at 149.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, -2.5 which has no environmental data
+Warning: Sample at 150.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, -2.5 which has no environmental data
+Warning: Sample at 176.5, -2.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 176.5, -2.5 which has no environmental data
+Warning: Sample at -171.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -171.5, -3.5 which has no environmental data
+Warning: Sample at -170.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -170.5, -3.5 which has no environmental data
+Warning: Sample at 39.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -3.5 which has no environmental data
+Warning: Sample at 40.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -3.5 which has no environmental data
+Warning: Sample at 100.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 100.5, -3.5 which has no environmental data
+Warning: Sample at 101.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 101.5, -3.5 which has no environmental data
+Warning: Sample at 127.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 127.5, -3.5 which has no environmental data
+Warning: Sample at 128.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 128.5, -3.5 which has no environmental data
+Warning: Sample at 135.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 135.5, -3.5 which has no environmental data
+Warning: Sample at 144.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, -3.5 which has no environmental data
+Warning: Sample at 154.5, -3.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 154.5, -3.5 which has no environmental data
+Warning: Sample at -174.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -174.5, -4.5 which has no environmental data
+Warning: Sample at -172.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -172.5, -4.5 which has no environmental data
+Warning: Sample at -171.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -171.5, -4.5 which has no environmental data
+Warning: Sample at -155.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -155.5, -4.5 which has no environmental data
+Warning: Sample at 39.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -4.5 which has no environmental data
+Warning: Sample at 53.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 53.5, -4.5 which has no environmental data
+Warning: Sample at 55.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 55.5, -4.5 which has no environmental data
+Warning: Sample at 122.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -4.5 which has no environmental data
+Warning: Sample at 123.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -4.5 which has no environmental data
+Warning: Sample at 129.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 129.5, -4.5 which has no environmental data
+Warning: Sample at 144.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, -4.5 which has no environmental data
+Warning: Sample at 145.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, -4.5 which has no environmental data
+Warning: Sample at 155.5, -4.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 155.5, -4.5 which has no environmental data
+Warning: Sample at 39.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -5.5 which has no environmental data
+Warning: Sample at 53.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 53.5, -5.5 which has no environmental data
+Warning: Sample at 71.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 71.5, -5.5 which has no environmental data
+Warning: Sample at 72.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, -5.5 which has no environmental data
+Warning: Sample at 105.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 105.5, -5.5 which has no environmental data
+Warning: Sample at 106.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 106.5, -5.5 which has no environmental data
+Warning: Sample at 110.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 110.5, -5.5 which has no environmental data
+Warning: Sample at 119.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, -5.5 which has no environmental data
+Warning: Sample at 123.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -5.5 which has no environmental data
+Warning: Sample at 124.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, -5.5 which has no environmental data
+Warning: Sample at 127.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 127.5, -5.5 which has no environmental data
+Warning: Sample at 132.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 132.5, -5.5 which has no environmental data
+Warning: Sample at 134.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, -5.5 which has no environmental data
+Warning: Sample at 145.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, -5.5 which has no environmental data
+Warning: Sample at 146.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, -5.5 which has no environmental data
+Warning: Sample at 148.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 148.5, -5.5 which has no environmental data
+Warning: Sample at 149.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, -5.5 which has no environmental data
+Warning: Sample at 150.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, -5.5 which has no environmental data
+Warning: Sample at 157.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 157.5, -5.5 which has no environmental data
+Warning: Sample at 159.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 159.5, -5.5 which has no environmental data
+Warning: Sample at 176.5, -5.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 176.5, -5.5 which has no environmental data
+Warning: Sample at 39.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -6.5 which has no environmental data
+Warning: Sample at 71.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 71.5, -6.5 which has no environmental data
+Warning: Sample at 72.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, -6.5 which has no environmental data
+Warning: Sample at 105.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 105.5, -6.5 which has no environmental data
+Warning: Sample at 106.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 106.5, -6.5 which has no environmental data
+Warning: Sample at 110.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 110.5, -6.5 which has no environmental data
+Warning: Sample at 120.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, -6.5 which has no environmental data
+Warning: Sample at 121.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, -6.5 which has no environmental data
+Warning: Sample at 122.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -6.5 which has no environmental data
+Warning: Sample at 124.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 124.5, -6.5 which has no environmental data
+Warning: Sample at 134.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, -6.5 which has no environmental data
+Warning: Sample at 146.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, -6.5 which has no environmental data
+Warning: Sample at 147.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -6.5 which has no environmental data
+Warning: Sample at 156.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 156.5, -6.5 which has no environmental data
+Warning: Sample at 157.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 157.5, -6.5 which has no environmental data
+Warning: Sample at 159.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 159.5, -6.5 which has no environmental data
+Warning: Sample at 176.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 176.5, -6.5 which has no environmental data
+Warning: Sample at 177.5, -6.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 177.5, -6.5 which has no environmental data
+Warning: Sample at 38.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 38.5, -7.5 which has no environmental data
+Warning: Sample at 39.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -7.5 which has no environmental data
+Warning: Sample at 56.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 56.5, -7.5 which has no environmental data
+Warning: Sample at 72.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 72.5, -7.5 which has no environmental data
+Warning: Sample at 108.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 108.5, -7.5 which has no environmental data
+Warning: Sample at 112.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 112.5, -7.5 which has no environmental data
+Warning: Sample at 114.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, -7.5 which has no environmental data
+Warning: Sample at 115.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, -7.5 which has no environmental data
+Warning: Sample at 121.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, -7.5 which has no environmental data
+Warning: Sample at 129.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 129.5, -7.5 which has no environmental data
+Warning: Sample at 131.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 131.5, -7.5 which has no environmental data
+Warning: Sample at 134.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 134.5, -7.5 which has no environmental data
+Warning: Sample at 147.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -7.5 which has no environmental data
+Warning: Sample at 155.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 155.5, -7.5 which has no environmental data
+Warning: Sample at 156.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 156.5, -7.5 which has no environmental data
+Warning: Sample at 157.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 157.5, -7.5 which has no environmental data
+Warning: Sample at 158.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 158.5, -7.5 which has no environmental data
+Warning: Sample at 177.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 177.5, -7.5 which has no environmental data
+Warning: Sample at 178.5, -7.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 178.5, -7.5 which has no environmental data
+Warning: Sample at -172.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -172.5, -8.5 which has no environmental data
+Warning: Sample at -157.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, -8.5 which has no environmental data
+Warning: Sample at -140.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -140.5, -8.5 which has no environmental data
+Warning: Sample at -139.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -139.5, -8.5 which has no environmental data
+Warning: Sample at -138.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -138.5, -8.5 which has no environmental data
+Warning: Sample at -35.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -35.5, -8.5 which has no environmental data
+Warning: Sample at 38.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 38.5, -8.5 which has no environmental data
+Warning: Sample at 39.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -8.5 which has no environmental data
+Warning: Sample at 114.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, -8.5 which has no environmental data
+Warning: Sample at 115.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, -8.5 which has no environmental data
+Warning: Sample at 116.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, -8.5 which has no environmental data
+Warning: Sample at 117.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 117.5, -8.5 which has no environmental data
+Warning: Sample at 119.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, -8.5 which has no environmental data
+Warning: Sample at 121.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, -8.5 which has no environmental data
+Warning: Sample at 122.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -8.5 which has no environmental data
+Warning: Sample at 123.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -8.5 which has no environmental data
+Warning: Sample at 125.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 125.5, -8.5 which has no environmental data
+Warning: Sample at 150.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, -8.5 which has no environmental data
+Warning: Sample at 151.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, -8.5 which has no environmental data
+Warning: Sample at 156.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 156.5, -8.5 which has no environmental data
+Warning: Sample at 157.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 157.5, -8.5 which has no environmental data
+Warning: Sample at 158.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 158.5, -8.5 which has no environmental data
+Warning: Sample at 159.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 159.5, -8.5 which has no environmental data
+Warning: Sample at 160.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 160.5, -8.5 which has no environmental data
+Warning: Sample at 162.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 162.5, -8.5 which has no environmental data
+Warning: Sample at 178.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 178.5, -8.5 which has no environmental data
+Warning: Sample at 179.5, -8.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 179.5, -8.5 which has no environmental data
+Warning: Sample at -171.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -171.5, -9.5 which has no environmental data
+Warning: Sample at -138.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -138.5, -9.5 which has no environmental data
+Warning: Sample at 39.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -9.5 which has no environmental data
+Warning: Sample at 46.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 46.5, -9.5 which has no environmental data
+Warning: Sample at 47.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 47.5, -9.5 which has no environmental data
+Warning: Sample at 51.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 51.5, -9.5 which has no environmental data
+Warning: Sample at 120.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, -9.5 which has no environmental data
+Warning: Sample at 142.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 142.5, -9.5 which has no environmental data
+Warning: Sample at 143.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, -9.5 which has no environmental data
+Warning: Sample at 144.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, -9.5 which has no environmental data
+Warning: Sample at 147.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -9.5 which has no environmental data
+Warning: Sample at 150.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, -9.5 which has no environmental data
+Warning: Sample at 151.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, -9.5 which has no environmental data
+Warning: Sample at 152.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 152.5, -9.5 which has no environmental data
+Warning: Sample at 153.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 153.5, -9.5 which has no environmental data
+Warning: Sample at 158.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 158.5, -9.5 which has no environmental data
+Warning: Sample at 159.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 159.5, -9.5 which has no environmental data
+Warning: Sample at 160.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 160.5, -9.5 which has no environmental data
+Warning: Sample at 179.5, -9.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 179.5, -9.5 which has no environmental data
+Warning: Sample at -165.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -165.5, -10.5 which has no environmental data
+Warning: Sample at -161.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -161.5, -10.5 which has no environmental data
+Warning: Sample at -160.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -160.5, -10.5 which has no environmental data
+Warning: Sample at -150.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -150.5, -10.5 which has no environmental data
+Warning: Sample at 40.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -10.5 which has no environmental data
+Warning: Sample at 47.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 47.5, -10.5 which has no environmental data
+Warning: Sample at 51.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 51.5, -10.5 which has no environmental data
+Warning: Sample at 56.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 56.5, -10.5 which has no environmental data
+Warning: Sample at 57.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 57.5, -10.5 which has no environmental data
+Warning: Sample at 105.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 105.5, -10.5 which has no environmental data
+Warning: Sample at 120.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 120.5, -10.5 which has no environmental data
+Warning: Sample at 122.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -10.5 which has no environmental data
+Warning: Sample at 123.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -10.5 which has no environmental data
+Warning: Sample at 142.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 142.5, -10.5 which has no environmental data
+Warning: Sample at 150.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, -10.5 which has no environmental data
+Warning: Sample at 151.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, -10.5 which has no environmental data
+Warning: Sample at 152.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 152.5, -10.5 which has no environmental data
+Warning: Sample at 153.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 153.5, -10.5 which has no environmental data
+Warning: Sample at 155.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 155.5, -10.5 which has no environmental data
+Warning: Sample at 161.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 161.5, -10.5 which has no environmental data
+Warning: Sample at 162.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 162.5, -10.5 which has no environmental data
+Warning: Sample at 166.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, -10.5 which has no environmental data
+Warning: Sample at 179.5, -10.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 179.5, -10.5 which has no environmental data
+Warning: Sample at -171.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -171.5, -11.5 which has no environmental data
+Warning: Sample at -151.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -151.5, -11.5 which has no environmental data
+Warning: Sample at 61.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 61.5, -11.5 which has no environmental data
+Warning: Sample at 96.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 96.5, -11.5 which has no environmental data
+Warning: Sample at 122.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -11.5 which has no environmental data
+Warning: Sample at 132.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 132.5, -11.5 which has no environmental data
+Warning: Sample at 144.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, -11.5 which has no environmental data
+Warning: Sample at 151.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, -11.5 which has no environmental data
+Warning: Sample at 152.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 152.5, -11.5 which has no environmental data
+Warning: Sample at 153.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 153.5, -11.5 which has no environmental data
+Warning: Sample at 154.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 154.5, -11.5 which has no environmental data
+Warning: Sample at 159.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 159.5, -11.5 which has no environmental data
+Warning: Sample at 160.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 160.5, -11.5 which has no environmental data
+Warning: Sample at 166.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, -11.5 which has no environmental data
+Warning: Sample at 168.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, -11.5 which has no environmental data
+Warning: Sample at 170.5, -11.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 170.5, -11.5 which has no environmental data
+Warning: Sample at 40.5, -12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -12.5 which has no environmental data
+Warning: Sample at 43.5, -12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 43.5, -12.5 which has no environmental data
+Warning: Sample at 45.5, -12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 45.5, -12.5 which has no environmental data
+Warning: Sample at 96.5, -12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 96.5, -12.5 which has no environmental data
+Warning: Sample at 122.5, -12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -12.5 which has no environmental data
+Warning: Sample at 130.5, -12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 130.5, -12.5 which has no environmental data
+Warning: Sample at 143.5, -12.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, -12.5 which has no environmental data
+Warning: Sample at -176.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -176.5, -13.5 which has no environmental data
+Warning: Sample at -172.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -172.5, -13.5 which has no environmental data
+Warning: Sample at -171.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -171.5, -13.5 which has no environmental data
+Warning: Sample at -163.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -163.5, -13.5 which has no environmental data
+Warning: Sample at -38.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -38.5, -13.5 which has no environmental data
+Warning: Sample at 40.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -13.5 which has no environmental data
+Warning: Sample at 48.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 48.5, -13.5 which has no environmental data
+Warning: Sample at 122.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -13.5 which has no environmental data
+Warning: Sample at 143.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, -13.5 which has no environmental data
+Warning: Sample at 144.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, -13.5 which has no environmental data
+Warning: Sample at 166.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, -13.5 which has no environmental data
+Warning: Sample at 167.5, -13.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, -13.5 which has no environmental data
+Warning: Sample at -178.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -178.5, -14.5 which has no environmental data
+Warning: Sample at -171.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -171.5, -14.5 which has no environmental data
+Warning: Sample at -170.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -170.5, -14.5 which has no environmental data
+Warning: Sample at -169.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -169.5, -14.5 which has no environmental data
+Warning: Sample at -168.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -168.5, -14.5 which has no environmental data
+Warning: Sample at -148.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -148.5, -14.5 which has no environmental data
+Warning: Sample at -147.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -147.5, -14.5 which has no environmental data
+Warning: Sample at -146.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -146.5, -14.5 which has no environmental data
+Warning: Sample at -145.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -145.5, -14.5 which has no environmental data
+Warning: Sample at -143.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -143.5, -14.5 which has no environmental data
+Warning: Sample at -141.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -141.5, -14.5 which has no environmental data
+Warning: Sample at -139.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -139.5, -14.5 which has no environmental data
+Warning: Sample at 40.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -14.5 which has no environmental data
+Warning: Sample at 121.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 121.5, -14.5 which has no environmental data
+Warning: Sample at 143.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 143.5, -14.5 which has no environmental data
+Warning: Sample at 144.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 144.5, -14.5 which has no environmental data
+Warning: Sample at 145.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, -14.5 which has no environmental data
+Warning: Sample at 167.5, -14.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, -14.5 which has no environmental data
+Warning: Sample at -173.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -173.5, -15.5 which has no environmental data
+Warning: Sample at -148.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -148.5, -15.5 which has no environmental data
+Warning: Sample at -147.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -147.5, -15.5 which has no environmental data
+Warning: Sample at -146.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -146.5, -15.5 which has no environmental data
+Warning: Sample at -145.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -145.5, -15.5 which has no environmental data
+Warning: Sample at -144.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -144.5, -15.5 which has no environmental data
+Warning: Sample at -143.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -143.5, -15.5 which has no environmental data
+Warning: Sample at -141.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -141.5, -15.5 which has no environmental data
+Warning: Sample at -140.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -140.5, -15.5 which has no environmental data
+Warning: Sample at 40.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -15.5 which has no environmental data
+Warning: Sample at 50.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 50.5, -15.5 which has no environmental data
+Warning: Sample at 54.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 54.5, -15.5 which has no environmental data
+Warning: Sample at 123.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -15.5 which has no environmental data
+Warning: Sample at 145.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, -15.5 which has no environmental data
+Warning: Sample at 147.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -15.5 which has no environmental data
+Warning: Sample at 166.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, -15.5 which has no environmental data
+Warning: Sample at 167.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, -15.5 which has no environmental data
+Warning: Sample at 168.5, -15.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, -15.5 which has no environmental data
+Warning: Sample at -179.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -179.5, -16.5 which has no environmental data
+Warning: Sample at -154.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -154.5, -16.5 which has no environmental data
+Warning: Sample at -151.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -151.5, -16.5 which has no environmental data
+Warning: Sample at -150.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -150.5, -16.5 which has no environmental data
+Warning: Sample at -146.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -146.5, -16.5 which has no environmental data
+Warning: Sample at -145.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -145.5, -16.5 which has no environmental data
+Warning: Sample at -144.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -144.5, -16.5 which has no environmental data
+Warning: Sample at -143.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -143.5, -16.5 which has no environmental data
+Warning: Sample at -142.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -142.5, -16.5 which has no environmental data
+Warning: Sample at -141.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -141.5, -16.5 which has no environmental data
+Warning: Sample at -139.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -139.5, -16.5 which has no environmental data
+Warning: Sample at -39.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -39.5, -16.5 which has no environmental data
+Warning: Sample at -38.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -38.5, -16.5 which has no environmental data
+Warning: Sample at 39.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -16.5 which has no environmental data
+Warning: Sample at 40.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -16.5 which has no environmental data
+Warning: Sample at 50.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 50.5, -16.5 which has no environmental data
+Warning: Sample at 122.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -16.5 which has no environmental data
+Warning: Sample at 123.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 123.5, -16.5 which has no environmental data
+Warning: Sample at 145.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 145.5, -16.5 which has no environmental data
+Warning: Sample at 146.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, -16.5 which has no environmental data
+Warning: Sample at 149.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, -16.5 which has no environmental data
+Warning: Sample at 167.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, -16.5 which has no environmental data
+Warning: Sample at 168.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, -16.5 which has no environmental data
+Warning: Sample at 178.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 178.5, -16.5 which has no environmental data
+Warning: Sample at 179.5, -16.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 179.5, -16.5 which has no environmental data
+Warning: Sample at -179.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -179.5, -17.5 which has no environmental data
+Warning: Sample at -178.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -178.5, -17.5 which has no environmental data
+Warning: Sample at -150.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -150.5, -17.5 which has no environmental data
+Warning: Sample at -149.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -149.5, -17.5 which has no environmental data
+Warning: Sample at -142.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -142.5, -17.5 which has no environmental data
+Warning: Sample at -141.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -141.5, -17.5 which has no environmental data
+Warning: Sample at -140.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -140.5, -17.5 which has no environmental data
+Warning: Sample at -39.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -39.5, -17.5 which has no environmental data
+Warning: Sample at -38.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -38.5, -17.5 which has no environmental data
+Warning: Sample at 38.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 38.5, -17.5 which has no environmental data
+Warning: Sample at 39.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 39.5, -17.5 which has no environmental data
+Warning: Sample at 42.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 42.5, -17.5 which has no environmental data
+Warning: Sample at 118.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 118.5, -17.5 which has no environmental data
+Warning: Sample at 119.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 119.5, -17.5 which has no environmental data
+Warning: Sample at 122.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 122.5, -17.5 which has no environmental data
+Warning: Sample at 146.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, -17.5 which has no environmental data
+Warning: Sample at 147.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -17.5 which has no environmental data
+Warning: Sample at 148.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 148.5, -17.5 which has no environmental data
+Warning: Sample at 151.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, -17.5 which has no environmental data
+Warning: Sample at 168.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, -17.5 which has no environmental data
+Warning: Sample at 177.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 177.5, -17.5 which has no environmental data
+Warning: Sample at 178.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 178.5, -17.5 which has no environmental data
+Warning: Sample at 179.5, -17.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 179.5, -17.5 which has no environmental data
+Warning: Sample at -179.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -179.5, -18.5 which has no environmental data
+Warning: Sample at -178.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -178.5, -18.5 which has no environmental data
+Warning: Sample at -174.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -174.5, -18.5 which has no environmental data
+Warning: Sample at -173.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -173.5, -18.5 which has no environmental data
+Warning: Sample at -169.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -169.5, -18.5 which has no environmental data
+Warning: Sample at -163.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -163.5, -18.5 which has no environmental data
+Warning: Sample at -159.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -159.5, -18.5 which has no environmental data
+Warning: Sample at -142.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -142.5, -18.5 which has no environmental data
+Warning: Sample at -141.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -141.5, -18.5 which has no environmental data
+Warning: Sample at -140.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -140.5, -18.5 which has no environmental data
+Warning: Sample at -136.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -136.5, -18.5 which has no environmental data
+Warning: Sample at -39.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -39.5, -18.5 which has no environmental data
+Warning: Sample at 146.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, -18.5 which has no environmental data
+Warning: Sample at 147.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -18.5 which has no environmental data
+Warning: Sample at 148.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 148.5, -18.5 which has no environmental data
+Warning: Sample at 162.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 162.5, -18.5 which has no environmental data
+Warning: Sample at 168.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, -18.5 which has no environmental data
+Warning: Sample at 169.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, -18.5 which has no environmental data
+Warning: Sample at 177.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 177.5, -18.5 which has no environmental data
+Warning: Sample at 178.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 178.5, -18.5 which has no environmental data
+Warning: Sample at 179.5, -18.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 179.5, -18.5 which has no environmental data
+Warning: Sample at -179.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -179.5, -19.5 which has no environmental data
+Warning: Sample at -178.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -178.5, -19.5 which has no environmental data
+Warning: Sample at -174.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -174.5, -19.5 which has no environmental data
+Warning: Sample at -169.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -169.5, -19.5 which has no environmental data
+Warning: Sample at -159.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -159.5, -19.5 which has no environmental data
+Warning: Sample at -158.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -158.5, -19.5 which has no environmental data
+Warning: Sample at -157.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, -19.5 which has no environmental data
+Warning: Sample at -144.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -144.5, -19.5 which has no environmental data
+Warning: Sample at -141.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -141.5, -19.5 which has no environmental data
+Warning: Sample at -140.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -140.5, -19.5 which has no environmental data
+Warning: Sample at -139.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -139.5, -19.5 which has no environmental data
+Warning: Sample at -138.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -138.5, -19.5 which has no environmental data
+Warning: Sample at 46.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 46.5, -19.5 which has no environmental data
+Warning: Sample at 57.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 57.5, -19.5 which has no environmental data
+Warning: Sample at 63.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 63.5, -19.5 which has no environmental data
+Warning: Sample at 146.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 146.5, -19.5 which has no environmental data
+Warning: Sample at 147.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 147.5, -19.5 which has no environmental data
+Warning: Sample at 148.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 148.5, -19.5 which has no environmental data
+Warning: Sample at 149.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, -19.5 which has no environmental data
+Warning: Sample at 150.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, -19.5 which has no environmental data
+Warning: Sample at 158.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 158.5, -19.5 which has no environmental data
+Warning: Sample at 163.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 163.5, -19.5 which has no environmental data
+Warning: Sample at 169.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, -19.5 which has no environmental data
+Warning: Sample at 178.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 178.5, -19.5 which has no environmental data
+Warning: Sample at 179.5, -19.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 179.5, -19.5 which has no environmental data
+Warning: Sample at -178.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -178.5, -20.5 which has no environmental data
+Warning: Sample at -174.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -174.5, -20.5 which has no environmental data
+Warning: Sample at -157.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, -20.5 which has no environmental data
+Warning: Sample at -143.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -143.5, -20.5 which has no environmental data
+Warning: Sample at -142.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -142.5, -20.5 which has no environmental data
+Warning: Sample at -131.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -131.5, -20.5 which has no environmental data
+Warning: Sample at 57.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 57.5, -20.5 which has no environmental data
+Warning: Sample at 115.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 115.5, -20.5 which has no environmental data
+Warning: Sample at 116.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 116.5, -20.5 which has no environmental data
+Warning: Sample at 149.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, -20.5 which has no environmental data
+Warning: Sample at 163.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 163.5, -20.5 which has no environmental data
+Warning: Sample at 164.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 164.5, -20.5 which has no environmental data
+Warning: Sample at 165.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 165.5, -20.5 which has no environmental data
+Warning: Sample at 166.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, -20.5 which has no environmental data
+Warning: Sample at 167.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, -20.5 which has no environmental data
+Warning: Sample at 169.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 169.5, -20.5 which has no environmental data
+Warning: Sample at 178.5, -20.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 178.5, -20.5 which has no environmental data
+Warning: Sample at -175.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -175.5, -21.5 which has no environmental data
+Warning: Sample at -174.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -174.5, -21.5 which has no environmental data
+Warning: Sample at -159.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -159.5, -21.5 which has no environmental data
+Warning: Sample at -157.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -157.5, -21.5 which has no environmental data
+Warning: Sample at -154.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -154.5, -21.5 which has no environmental data
+Warning: Sample at -140.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -140.5, -21.5 which has no environmental data
+Warning: Sample at -138.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -138.5, -21.5 which has no environmental data
+Warning: Sample at -137.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -137.5, -21.5 which has no environmental data
+Warning: Sample at -136.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -136.5, -21.5 which has no environmental data
+Warning: Sample at -135.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -135.5, -21.5 which has no environmental data
+Warning: Sample at 35.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 35.5, -21.5 which has no environmental data
+Warning: Sample at 40.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -21.5 which has no environmental data
+Warning: Sample at 55.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 55.5, -21.5 which has no environmental data
+Warning: Sample at 114.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, -21.5 which has no environmental data
+Warning: Sample at 149.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 149.5, -21.5 which has no environmental data
+Warning: Sample at 158.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 158.5, -21.5 which has no environmental data
+Warning: Sample at 164.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 164.5, -21.5 which has no environmental data
+Warning: Sample at 166.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, -21.5 which has no environmental data
+Warning: Sample at 167.5, -21.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, -21.5 which has no environmental data
+Warning: Sample at -138.5, -22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -138.5, -22.5 which has no environmental data
+Warning: Sample at 35.5, -22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 35.5, -22.5 which has no environmental data
+Warning: Sample at 40.5, -22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 40.5, -22.5 which has no environmental data
+Warning: Sample at 150.5, -22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 150.5, -22.5 which has no environmental data
+Warning: Sample at 166.5, -22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 166.5, -22.5 which has no environmental data
+Warning: Sample at 167.5, -22.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 167.5, -22.5 which has no environmental data
+Warning: Sample at -149.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -149.5, -23.5 which has no environmental data
+Warning: Sample at -147.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -147.5, -23.5 which has no environmental data
+Warning: Sample at -136.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -136.5, -23.5 which has no environmental data
+Warning: Sample at -134.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -134.5, -23.5 which has no environmental data
+Warning: Sample at -130.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -130.5, -23.5 which has no environmental data
+Warning: Sample at 43.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 43.5, -23.5 which has no environmental data
+Warning: Sample at 151.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 151.5, -23.5 which has no environmental data
+Warning: Sample at 152.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 152.5, -23.5 which has no environmental data
+Warning: Sample at 153.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 153.5, -23.5 which has no environmental data
+Warning: Sample at 168.5, -23.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 168.5, -23.5 which has no environmental data
+Warning: Sample at -128.5, -24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -128.5, -24.5 which has no environmental data
+Warning: Sample at -124.5, -24.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -124.5, -24.5 which has no environmental data
+Warning: Sample at -130.5, -25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at -130.5, -25.5 which has no environmental data
+Warning: Sample at 152.5, -25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 152.5, -25.5 which has no environmental data
+Warning: Sample at 153.5, -25.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 153.5, -25.5 which has no environmental data
+Warning: Sample at 32.5, -26.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 32.5, -26.5 which has no environmental data
+Warning: Sample at 32.5, -27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 32.5, -27.5 which has no environmental data
+Warning: Sample at 153.5, -27.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 153.5, -27.5 which has no environmental data
+Warning: Sample at 113.5, -28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 113.5, -28.5 which has no environmental data
+Warning: Sample at 114.5, -28.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 114.5, -28.5 which has no environmental data
+Warning: Sample at 161.5, -29.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 161.5, -29.5 which has no environmental data
+Warning: Sample at 30.5, -30.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 30.5, -30.5 which has no environmental data
+Warning: Sample at 163.5, -30.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 163.5, -30.5 which has no environmental data
+Warning: Sample at 158.5, -31.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 158.5, -31.5 which has no environmental data
+Warning: Sample at 159.5, -31.5 in ReefBase_pts_subsample.csv is missing some environmental data (e.g. layermax_irr)
+Warning: Skipping sample at 159.5, -31.5 which has no environmental data
+1172 points with values for all grids
+Adding samples to background in feature space
+Command line used: 
+Command line to repeat: java density.MaxEnt nowarnings noprefixes "outputdirectory=C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian" "projectionlayers=C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\lutetian_layers" "samplesfile=C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\ReefBase_pts_subsample.csv" "environmentallayers=C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\modern_layers" randomtestpoints=20 -N ReefBase_raster -N layerdem
+Species: reef
+Layers: layermax_irr layermax_sst layermin_irr layermin_sst
+Layertypes: Continuous Continuous Continuous Continuous
+outputdirectory: C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian
+projectionlayers: C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\lutetian_layers
+samplesfile: C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\ReefBase_pts_subsample.csv
+environmentallayers: C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\modern_layers
+randomtestpoints: 20
+
+getSamples: max memory 1858600960, total allocated 358612992, free 194382224, used 164230768, increment 8080880
+Time since start: 1.604
+Making features
+makeFeatures: max memory 1858600960, total allocated 358612992, free 194267024, used 164345968, increment 115200
+reef: 
+Regularization values: linear/quadratic/product: 0.543, categorical: 0.286, threshold: 1.840, hinge: 0.500
+16 samples
+Density: max memory 1858600960, total allocated 358612992, free 194267024, used 164345968, increment 0
+linearPredictor: max memory 1858600960, total allocated 358612992, free 194267024, used 164345968, increment 0
+FeaturedSpace: max memory 1858600960, total allocated 358612992, free 194267024, used 164345968, increment 0
+Sequential: max memory 1858600960, total allocated 358612992, free 194267024, used 164345968, increment 0
+Initial loss: 7.066466970136958
+Initial test loss: 7.066466970136958
+320: time = 0.707000 loss = 5.446844 testLoss 5.262587
+Resulting gain: 1.6196231180456522
+Projecting...
+Writing file C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\reef.asc
+Writing C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\plots\reef.png
+Time since start: 2.607
+Projecting...
+Writing file C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\reef_lutetian_layers.asc
+Writing file C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\reef_lutetian_layers_clamping.asc
+Writing C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\plots\reef_lutetian_layers.png
+Writing C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\plots\reef_lutetian_layers_clamping.png
+Writing file C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\reef_lutetian_layers_novel.asc
+Writing file C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\reef_lutetian_layers_novel_limiting.asc
+Ending

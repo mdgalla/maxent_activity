@@ -1,0 +1,2 @@
+java -mx1772m -cp "/C:/Users/galla/Documents/maxent/maxent.jar;C:\Users\galla\Documents\maxent\maxent.jar" density.Explain -l "C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\reef.lambdas" -c "C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\maxent_output\lutetian\reef_lutetian_layers.asc" "C:\Users\galla\Documents\HiWi Wolfgang\maxent_reef_exercise\data\layers\lutetian_layers"
+@if errorlevel 1 pause
